@@ -1,0 +1,3 @@
+[submodule "meca_lib_motors"]
+	path = meca_lib_motors
+	url = https://github.com/I-Grebot/meca_lib_motors
